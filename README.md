@@ -1,2 +1,2 @@
-# hellow-horld
-hellow-horld
+# hellow-world
+hellow-world

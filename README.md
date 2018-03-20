@@ -1,2 +1,2 @@
-# hellow-horld
-hellow-horld
+# hello-world
+hello-world
